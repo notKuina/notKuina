@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=notkuina&label=Profile%20views&color=0e75b6&style=flat" alt="notkuina" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=notkuina" alt="notkuina" /></a> </p>
-
 - 🌱 I’m currently learning **python,Django,AI and Machine Learning, etc.**<br>
 
 - 📫 How to reach me **saammagar00@gmail.com**<br>
