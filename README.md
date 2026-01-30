@@ -1,12 +1,13 @@
-<h1 align="center">Hi there👋, I'm Samjhana</h1> <br>
-<h3 align="center">A tech enthusiast passionate about creating web and software solutions.  </h3><br>
+<h1 align="center">Hi there👋, I'm Samjhana</h1>
+<h3>Python Developer | Tech Enthusiast | Exploring AI/ML</h3>
+<h3 align="center">I enjoy creating full-stack applications and exploring the world of web development and modern softwares. I'm always experimenting, learning, and contributing to real world web projects.  </h3>
 
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=notkuina&label=Profile%20views&color=0e75b6&style=flat" alt="notkuina" /> </p>
 
 - 🌱 I’m currently learning **python,Django**<br>
 - 📫 How to reach me **saammagar00@gmail.com**<br>
-- 📫 Connect with me <a href="https://linkedin.com/in/in/samjhana-gharti-magar" target="blank">linkedin</a><br>
+- 🔗 Connect with me <a href="https://linkedin.com/in/in/samjhana-gharti-magar" target="blank">linkedin</a><br>
 
 
 <h3 align="left">Tech Stack & Tools:</h3>
