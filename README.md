@@ -1,13 +1,13 @@
-<h1 align="center">Hi 👋, I'm Samjhana</h1> <br>
-<h3 align="center">A tech enthusiast.</h3><br>
+<h1 align="center">Hi there👋, I'm Samjhana</h1> <br>
+<h3 align="center">A tech enthusiast passionate about creating web and software solutions.  </h3><br>
+
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=notkuina&label=Profile%20views&color=0e75b6&style=flat" alt="notkuina" /> </p>
 
 - 🌱 I’m currently learning **python,Django**<br>
 - 📫 How to reach me **saammagar00@gmail.com**<br>
+- 📫 Connect with me <a href="https://linkedin.com/in/in/samjhana-gharti-magar" target="blank">linkedin</a><br>
 
-<h3 align="left">Connect with me:<a href="https://linkedin.com/in/in/samjhana-gharti-magar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="in/samjhana-gharti-magar" height="30" width="40" /></a>
-</p></h3><br>
 
 <h3 align="left">Tech Stack & Tools:</h3>
 
