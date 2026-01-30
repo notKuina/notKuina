@@ -1,9 +1,9 @@
 <h1 align="center">Hi there👋, I'm Samjhana</h1>
-<h3>Python Developer | Tech Enthusiast | Exploring AI/ML</h3>
-<h3 align="center">I enjoy creating full-stack applications and exploring the world of web development and modern softwares. I'm always experimenting, learning, and contributing to real world web projects.  </h3>
-
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=notkuina&label=Profile%20views&color=0e75b6&style=flat" alt="notkuina" /> </p>
+
+<p align="center">Python Developer | Tech Enthusiast | Exploring AI/ML</p>
+<p align="center">I enjoy creating full-stack applications and exploring the world of web development and modern softwares. I'm always experimenting, learning, and contributing to real world web projects.  </p>
 
 - 🌱 I’m currently learning **python,Django**<br>
 - 📫 How to reach me **saammagar00@gmail.com**<br>
