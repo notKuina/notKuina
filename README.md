@@ -13,14 +13,35 @@
 
 <table>
   <tr>
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" width="40"/></td>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" width="40"/>
-    <td><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40"/></td>
-    <td><img src="https://cdn.worldvectorlogo.com/logos/django.svg" width="40"/></td>
-    <td><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40"/></td>
-    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40"/></td>
-    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="40"/></td>
-    <td><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40"/></td>
-    <td><img src="https://upload.wikimedia.org/wikipedia/commons/4/45/Notion_app_logo.png" width="40"/></td>
+    <td>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40"/>
+    </td>
+    <td>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" width="40"/>
+    </td>
+    <td>
+      <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40"/>
+    </td>
+    <td>
+      <img src="https://cdn.worldvectorlogo.com/logos/django.svg" width="40"/>
+    </td>
+    <td>
+      <img src="https://www.vectorlogo.zone/logos/djangorestframework/djangorestframework-icon.svg" width="40" title="Django REST Framework"/>
+    </td>
+    <td>
+      <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40"/>
+    </td>
+    <td>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40"/>
+    </td>
+    <td>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40"/>
+    </td>
+    <td>
+      <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40"/>
+    </td>
+    <td>
+      <img src="https://upload.wikimedia.org/wikipedia/commons/4/45/Notion_app_logo.png" width="40"/>
+    </td>
   </tr>
 </table>
